@@ -15,5 +15,10 @@ namespace Components
         {
             _coords = coords;
         }
+
+        public void OnMouseDown()
+        {
+            
+        }
     }
 }
